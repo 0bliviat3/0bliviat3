@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github](https://www.codenary.co.kr/widget/github/api?username=송재완)](https://www.codenary.co.kr/user-profile/detail/송재완?github_ride=true&utm_source=github)
+<!-- [![Github](https://www.codenary.co.kr/widget/github/api?username=송재완)](https://www.codenary.co.kr/user-profile/detail/송재완?github_ride=true&utm_source=github) -->
