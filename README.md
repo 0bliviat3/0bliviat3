@@ -5,3 +5,4 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0bliviate)](https://solved.ac/0bliviate/)
+[![My GitFut card](https://gitfut.com/0bliviate.png)](https://gitfut.com/0bliviate)
